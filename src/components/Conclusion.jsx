@@ -1,7 +1,6 @@
 import React from 'react';
 import SectionHeader from './UI/SectionHeader';
 import Card from './UI/Card';
-import Alert from './UI/Alert';
 
 const Conclusion = ({ data }) => {
   return (
