@@ -1,0 +1,502 @@
+{
+  "cover": {
+    "company": "FRIGATE ENGINEERING SERVICES PRIVATE LIMITED",
+    "title": "Strategic Financial Analysis & Advisory Report",
+    "subtitle": "Four-Year Comprehensive Strategic Financial Analysis",
+    "period": "FY 2021-22 to FY 2024-25",
+    "preparedFor": "Board of Directors & CEO",
+    "compiledDate": "February 2026",
+    "auditFirms": "-",
+    "cin": "U31900TN2021PTC141899"
+  },
+
+  "executiveSummary": {
+    "kpis": [
+      {
+        "label": "FY25 Revenue",
+        "value": "₹22.45 Crores",
+        "sub": "+175% YoY",
+        "badgeClass": "badge-green",
+        "badge": "📈 93× Growth in 4 Yrs"
+      },
+      {
+        "label": "Gross Margin FY25",
+        "value": "5.8%",
+        "sub": "Structural Crisis",
+        "badgeClass": "badge-red",
+        "badge": "🔴 Below Norms"
+      },
+      {
+        "label": "Net Loss FY25",
+        "value": "₹3.61 Crores",
+        "sub": "Growing Deficit",
+        "badgeClass": "badge-red",
+        "badge": "🚨 12,180% Deterioration"
+      },
+      {
+        "label": "Current Ratio",
+        "value": "0.86×",
+        "sub": "Liquidity Crisis",
+        "badgeClass": "badge-red",
+        "badge": "⚠ Severely Impaired"
+      },
+      {
+        "label": "Cash Balance",
+        "value": "₹7.21 Lakhs",
+        "sub": "<1 Day Survival",
+        "badgeClass": "badge-red",
+        "badge": "🔴 Near-Zero"
+      },
+      {
+        "label": "Vendor Advances",
+        "value": "₹9.37 Crores",
+        "sub": "40% of Total Assets",
+        "badgeClass": "badge-red",
+        "badge": "⚠ Asset Trap"
+      },
+      {
+        "label": "Customer Advances",
+        "value": "₹9.50 Crores",
+        "sub": "Primary Funding",
+        "badgeClass": "badge-orange",
+        "badge": "⚠ Fragile Model"
+      },
+      {
+        "label": "Employee Cost",
+        "value": "₹3.54 Crores",
+        "sub": "15.8% of Revenue",
+        "badgeClass": "badge-red",
+        "badge": "🔴 3× Gross Profit"
+      }
+    ],
+    "verdict": {
+      "label": "OVERALL FINANCIAL HEALTH SCORE",
+      "score": "2.0/5",
+      "title": "CRITICAL FINDING: Exceptional Growth, Flawed Financial Architecture",
+      "description": "Frigate Engineering Services Private Limited is a company with exceptional revenue growth momentum operating inside a critically flawed financial architecture. The company has demonstrated the capacity to win and grow contracts — growing from INR 227 L in FY22 to INR 2244.72 L in FY25 — but has been unable to translate this into profitability. The central crisis is a structural gross margin of under 8%, which makes it mathematically impossible to cover operating costs regardless of scale. The company is shifting from low-margin material supply to high-value engineering services — scaling revenue will only deepen losses."}
+  },
+
+  "revenueAnalysis": {
+    "plData": [
+    { "particulars": "Revenue from Operations", "fy22": "2,270", "fy23": "16,815.63", "fy24": "81,708", "fy25": "2,24,472", "cagr": "362%", "yoy": "+175%", "highlight": true },
+    { "particulars": "YoY Revenue Growth", "fy22": "N/A", "fy23": "+640%", "fy24": "+386%", "fy25": "+175%", "cagr": "-", "yoy": "-", "highlight": false },
+    { "particulars": "Other Income", "fy22": "11.07", "fy23": "86.43", "fy24": "3,784", "fy25": "6,577", "cagr": "-", "yoy": "+74%", "highlight": false },
+    { "particulars": "Total Income", "fy22": "2,281", "fy23": "16,902", "fy24": "85,492", "fy25": "2,31,049", "cagr": "365%", "yoy": "+170%", "class": "subtotal", "highlight": false },
+    { "particulars": "Cost of Material Consumed", "fy22": "2,163", "fy23": "15,475", "fy24": "78,084", "fy25": "2,11,341", "cagr": "361%", "yoy": "+171%", "fy25Color": "text-red", "highlight": true },
+    { "particulars": "Materials as % of Revenue", "fy22": "95.3%", "fy23": "92.0%", "fy24": "95.6%", "fy25": "94.2%", "cagr": "-", "yoy": "-", "fy25Color": "text-red", "highlight": false },
+    { "particulars": "GROSS PROFIT (LOSS)", "fy22": "107", "fy23": "1,345", "fy24": "3,595", "fy25": "13,019", "cagr": "395%", "yoy": "+262%", "class": "subtotal", "highlight": true },
+    { "particulars": "GROSS MARGIN %", "fy22": "4.7%", "fy23": "8.0%", "fy24": "4.4%", "fy25": "5.8%", "cagr": "Low", "yoy": "↓ -27%", "class": "highlight", "fy25Color": "text-red", "highlight": true },
+    { "particulars": "Employee Benefit Expenses", "fy22": "335", "fy23": "4,157", "fy24": "12,998", "fy25": "35,449", "cagr": "373%", "yoy": "+173%", "fy25Color": "text-red", "highlight": false },
+    { "particulars": "Finance Cost (Interest)", "fy22": "0", "fy23": "0", "fy24": "291", "fy25": "2,399", "cagr": "-", "yoy": "-", "highlight": false },
+    { "particulars": "Depreciation & Amortization", "fy22": "0", "fy23": "47", "fy24": "465", "fy25": "1,726", "cagr": "-", "yoy": "-", "highlight": false },
+    { "particulars": "Other Expenses", "fy22": "77", "fy23": "1,521", "fy24": "14,588", "fy25": "16,075", "cagr": "-", "yoy": "-", "highlight": false },
+    { "particulars": "TOTAL EXPENSES", "fy22": "2,575", "fy23": "21,200", "fy24": "1,06,426", "fy25": "2,66,990", "cagr": "-", "yoy": "-", "class": "subtotal", "highlight": false },
+    { "particulars": "NET LOSS BEFORE TAX", "fy22": "(294)", "fy23": "(4,298)", "fy24": "(20,932)", "fy25": "(35,941)", "cagr": "-", "yoy": "-", "highlight": false },
+    { "particulars": "NET LOSS AFTER TAX", "fy22": "(296)", "fy23": "(4,265)", "fy24": "(20,714)", "fy25": "(36,053)", "cagr": "395%", "yoy": "+74%", "class": "total", "fy25Color": "text-red", "highlight": true },
+    { "particulars": "CUMULATIVE LOSS", "fy22": "(296)", "fy23": "(4,561)", "fy24": "(25,275)", "fy25": "(61,328)", "cagr": "-", "yoy": "-", "highlight": false }
+    ],
+    "alert": {
+      "type": "red",
+      "icon": "⚠",
+      "title": "Dangerously Low & Declining Gross Margin",
+      "description": "Gross margin declined from 8.0% in FY23 to 5.8% in FY25, and with margins below 3%, an engineering services company cannot cover operating costs like salaries, rent, professional fees, and finance charges, which is the root cause of its financial losses."
+    }
+  },
+
+  "financialRatios": {
+    "liquidityRatios": [
+        { "name": "Current Ratio", "fy22": "-", "fy23": "3.07x", "fy24": "0.62x", "fy25": "0.86x", "benchmark": "1.5–2.0x", "verdict": "⚠ Severely Impaired", "fy25Color": "text-red", "verdictColor": "text-red" },
+        { "name": "Quick Ratio (Acid Test)", "fy22": "-", "fy23": "3.07x", "fy24": "0.61x", "fy25": "0.82x", "benchmark": "1.0–1.5x", "verdict": "⚠ Critical", "fy25Color": "text-red", "verdictColor": "text-red", "highlight": true },
+        { "name": "Cash Ratio", "fy22": "-", "fy23": "1.91x", "fy24": "0.003x", "fy25": "0.004x", "benchmark": "0.5–1.0x", "verdict": "🔴 Illiquid", "fy25Color": "text-red", "verdictColor": "text-red" },
+        { "name": "Net Working Capital (INR K)", "fy22": "-", "fy23": "9,040.66", "fy24": "(44,280)", "fy25": "(22,039)", "benchmark": ">0", "verdict": "Negative", "fy25Color": "text-red", "verdictColor": "text-red", "highlight": true },
+        { "name": "Working Capital Turnover Ratio", "fy22": "-", "fy23": "1.86x", "fy24": "Negative", "fy25": "Negative", "benchmark": ">5x", "verdict": "Critical", "fy25Color": "text-red", "verdictColor": "text-red" },
+        { "name": "Defensive Interval Ratio (days)", "fy22": "-", "fy23": "~164", "fy24": "~25", "fy25": "~42", "benchmark": "30 days", "verdict": "Vulnerable", "fy25Color": "text-orange" }
+        ],
+
+    "profitabilityRatios": [
+        { "name": "Gross Margin %", "fy22": "4.7%", "fy23": "8.0%", "fy24": "4.4%", "fy25": "5.8%", "benchmark": "25–45%", "verdict": "↓ Critical", "fy25Color": "text-red", "highlight": true },
+        { "name": "EBITDA Margin %", "fy22": "-13.4%", "fy23": "-25.8%", "fy24": "-29.4%", "fy25": "-17.2%", "benchmark": ">10%", "verdict": "Negative", "fy25Color": "text-red" },
+        { "name": "Operating Profit Margin (EBIT)", "fy22": "-13.4%", "fy23": "-26.0%", "fy24": "-30.0%", "fy25": "-17.9%", "benchmark": ">8%", "verdict": "Negative", "fy25Color": "text-red" },
+        { "name": "Net Profit Margin %", "fy22": "-13.0%", "fy23": "-25.2%", "fy24": "-24.2%", "fy25": "-15.6%", "benchmark": ">5%", "verdict": "Negative", "fy25Color": "text-red" },
+        { "name": "ROA %", "fy22": "-20.6%", "fy23": "-30.2%", "fy24": "-9.3%", "fy25": "-15.2%", "benchmark": ">5%", "verdict": "Negative", "fy25Color": "text-red" },
+        { "name": "ROE %", "fy22": "-150.9%", "fy23": "-45.1%", "fy24": "-19.1%", "fy25": "-50.0%", "benchmark": ">12%", "verdict": "Eroding", "fy25Color": "text-red" },
+        { "name": "ROCE %", "fy22": "-139.1%", "fy23": "-43.6%", "fy24": "-19.0%", "fy25": "-49.0%", "benchmark": ">10%", "verdict": "Critical", "fy25Color": "text-red", "highlight": true },
+        { "name": "Employee Cost / Revenue", "fy22": "15%", "fy23": "25%", "fy24": "16%", "fy25": "16%", "benchmark": "<10%", "verdict": "High", "fy25Color": "text-red" }
+        ],
+
+    "solvencyRatios": [
+        { "name": "Debt-to-Equity", "fy22": "NA", "fy23": "0.03x", "fy24": "0.56x", "fy25": "0.66x", "benchmark": "<1.0x", "verdict": "Acceptable", "fy25Color": "text-green" },
+        { "name": "Interest Coverage", "fy22": "NA", "fy23": "NA", "fy24": "Negative", "fy25": "Negative", "benchmark": ">3.0x", "verdict": "Critical", "fy25Color": "text-red", "highlight": true }
+        ],
+
+    "efficiencyRatios": [
+        { "name": "Debtors Turnover Ratio", "fy22": "N/M", "fy23": "13.8x", "fy24": "19.7x", "fy25": "12.11x", "benchmark": ">8x", "verdict": "Adequate", "fy25Color": "text-green" },
+        { "name": "Days Sales Outstanding (DSO)", "fy22": "N/M", "fy23": "26 days", "fy24": "18 days", "fy25": "30 days", "benchmark": "<45 days", "verdict": "Good", "fy25Color": "text-green", "highlight": true },
+        { "name": "Payables Turnover (times)", "fy22": "N/M", "fy23": "17.8x", "fy24": "52.3x", "fy25": "21.92x", "benchmark": ">6x", "verdict": "Aggressive", "fy25Color": "text-orange" },
+        { "name": "Days Payable Outstanding (DPO)", "fy22": "N/M", "fy23": "21 days", "fy24": "7 days", "fy25": "16 days", "benchmark": "30–60 days", "verdict": "Stretched", "fy25Color": "text-red" }
+        ],
+    "alert": {
+      "type": "red",
+      "icon": "⚠",
+      "title": "Liquidity Status: SEVERELY IMPAIRED",
+      "description": "Cash and bank balances collapsed from INR 83 L (FY23) to just INR 3.36 L (FY24) and INR 721K (FY25). The company is almost entirely illiquid on a cash basis. Survival depends on receivables collection and overdraft facilities."
+    }
+    
+  },
+
+  "balanceSheet": {
+  "assets": {
+    "nonCurrent": [
+      { "name": "PP&E (Net)", "fy22": "37", "fy23": "321", "fy24": "1,578", "fy25": "2,482" },
+      { "name": "Intangible Assets", "fy22": "-", "fy23": "297", "fy24": "3084", "fy25": "5161" },
+      { "name": "Non-Current Investments", "fy22": "-", "fy23": "-", "fy24": "1,46,765", "fy25": "87,000" },
+      { "name": "Deferred Tax Assets", "fy22": "-", "fy23": "10.34", "fy24": "249", "fy25": "136" },
+      { "name": "Other Non-Current Assets", "fy22": "-", "fy23": "80", "fy24": "1553", "fy25": "1065" }
+    ],
+    "current": [
+      { "name": "Trade Receivables", "fy22": "824", "fy23": "1,214", "fy24": "7,068", "fy25": "30,019" },
+      { "name": "Cash & Bank Balances", "fy22": "342", "fy23": "8,332", "fy24": "336", "fy25": "721" },
+      { "name": "Other Current Assets", "fy22": "234", "fy23": "3,866", "fy24": "62,304", "fy25": "1,10,786" }
+    ],
+    "totalAssets": {
+      "fy22": "1,437",
+      "fy23": "14,141",
+      "fy24": "2,22,935",
+      "fy25": "2,37,370"
+    }
+  },
+
+  "liabilities": {
+    "equity": [
+      { "name": "Share Capital", "fy22": "100", "fy23": "225", "fy24": "296", "fy25": "296" },
+      { "name": "Reserves & Surplus (Deficit)", "fy22": "(296.14)", "fy23": "9,223", "fy24": "1,07,897", "fy25": "71,836" },
+      { "name": "Total Equity (Shareholders' Funds)", "fy22": "(196.14)", "fy23": "9,448", "fy24": "1,08,193", "fy25": "72,132" }
+    ],
+
+    "nonCurrent": [
+      { "name": "Long-Term Borrowings", "fy22": "408.9", "fy23": "322", "fy24": "102", "fy25": "102" },
+      { "name": "Deferred Tax Liabilities", "fy22": "1.78", "fy23": "-", "fy24": "-", "fy25": "-" },
+      { "name": "Long-Term Provision", "fy22": "-", "fy23": "-", "fy24": "654", "fy25": "1571" }
+    ],
+
+    "current": [
+      { "name": "Short-Term Borrowings", "fy22": "-", "fy23": "-", "fy24": "60,093", "fy25": "47,580" },
+      { "name": "Trade Payables", "fy22": "412.3", "fy23": "870.29", "fy24": "2,119", "fy25": "17,164" },
+      { "name": "Other Current Liabilities", "fy22": "460.11", "fy23": "1,806.05", "fy24": "49,424", "fy25": "95,608" },
+      { "name": "Short-Term Provisions", "fy22": "350", "fy23": "1,695", "fy24": "2,350", "fy25": "3,213" }
+    ],
+
+    "totalEquityAndLiabilities": {
+      "fy22": "1,437",
+      "fy23": "14,141",
+      "fy24": "2,22,935",
+      "fy25": "2,37,370"
+    }
+  }
+  },
+
+  "expenseAnalysis": {
+  "expenses": [
+    { "name": "Cost of Material Consumed", "fy22": "2,163", "fy23": "15,475", "fy24": "78,084", "fy25": "2,11,341", "percent": "94.2%", "risk": "ROOT CAUSE", "class": "highlight", "riskPill": "pill-red" },
+    { "name": "Employee Salaries & Wages", "fy22": "335", "fy23": "3,973", "fy24": "11,515", "fy25": "32,989", "percent": "-", "risk": "CRITICAL", "fy25Color": "text-red", "riskPill": "pill-red" },
+    { "name": "PF/Other Contributions", "fy22": "0", "fy23": "184", "fy24": "387", "fy25": "1,017", "percent": "-", "risk": "Normal", "highlight": false },
+    { "name": "ESOP / ESPP Expense", "fy22": "0", "fy23": "0", "fy24": "654", "fy25": "917", "percent": "-", "risk": "Rising", "riskPill": "pill-orange" },
+    { "name": "Staff Welfare", "fy22": "0", "fy23": "0", "fy24": "441", "fy25": "526", "percent": "-", "risk": "Normal", "highlight": false },
+    { "name": "Total Employee Costs", "fy22": "335", "fy23": "4,157", "fy24": "12,997", "fy25": "35,449", "percent": "15.8%", "risk": "Explosive Growth (473% CAGR)", "class": "subtotal", "riskPill": "pill-red" },
+    { "type": "spacer" },
+    { "name": "Professional & Consultancy Fees", "fy22": "-", "fy23": "247", "fy24": "5,100", "fy25": "5,660", "percent": "-", "risk": "+2,189%", "fy25Color": "text-red", "riskPill": "pill-red" },
+    { "name": "Finance Cost (Interest)", "fy22": "0", "fy23": "291", "fy24": "-", "fy25": "2,399", "percent": "-", "risk": "+724%", "fy25Color": "text-red", "riskPill": "pill-red" },
+    { "name": "Software & Tech Expenses", "fy22": "-", "fy23": "182", "fy24": "626", "fy25": "2,610", "percent": "-", "risk": "+1,334%", "riskPill": "pill-orange" },
+    { "name": "Business Promotion", "fy22": "-", "fy23": "230", "fy24": "1,761", "fy25": "1,573", "percent": "-", "risk": "+583%", "highlight": false },
+    { "name": "Travel & Accommodation", "fy22": "-", "fy23": "563", "fy24": "985", "fy25": "1,573", "percent": "-", "risk": "+179%", "highlight": false },
+    { "name": "Rent Expense", "fy22": "-", "fy23": "135", "fy24": "683", "fy25": "1,304", "percent": "-", "risk": "+866%", "highlight": false },
+    { "name": "Bad Debts Written Off", "fy22": "-", "fy23": "2", "fy24": "4,056", "fy25": "54", "percent": "-", "risk": "Highly Variable", "highlight": false },
+    { "name": "Forex Loss", "fy22": "40", "fy23": "47", "fy24": "-", "fy25": "443", "percent": "-", "risk": "+1,008%", "highlight": false },
+    { "name": "Related Party: Director Consulting Fees", "fy22": "NA", "fy23": "1,900", "fy24": "-", "fy25": "1,900", "percent": "-", "risk": "Flat / Controlled", "highlight": false }
+  ],
+
+  "rptTransactions": [
+    { "description": "Director Salary (Vasanthan)", "party": "Vasanthan Tamizhinian", "fy23": "-", "fy24": "1,150", "nature": "Employment", "highlight": false },
+    { "description": "Director Salary (Iniyavan)", "party": "Iniyavan Vasanthan", "fy23": "-", "fy24": "768", "nature": "Employment", "highlight": true },
+    { "description": "Director Salary (Prakash)", "party": "Prakash Kumar", "fy23": "-", "fy24": "1,000", "nature": "Employment", "highlight": false },
+    { "description": "Director Consulting Fees", "party": "Directors", "fy23": "1,900", "fy24": "1,900", "nature": "Professional Services", "highlight": true },
+    { "description": "Forex Loss", "party": "-", "fy23": "47", "fy24": "443", "nature": "Operational", "highlight": false }
+  ]
+  },
+
+  "criticalFlaws":{
+  "criticalFlaws":[
+    {
+      "type":"red",
+      "icon":"🔴",
+      "title":"Flaw 1: Structurally Insufficient Gross Margin",
+      "description":"With a gross margin of 5.8% (FY25) versus 15.8% employee costs as a percentage of revenue, the company is burning INR 10 in losses for every INR 100 of revenue. Gross profit is insufficient even to absorb employee costs, leaving a shortfall of approximately INR 10 per INR 100 of revenue before considering operating expenses. The company’s pricing strategy and contract structure must be fundamentally overhauled."
+    },
+    {
+      "type":"red",
+      "icon":"🔴",
+      "title":"Flaw 2: INR 9.37 Cr Vendor Advance Trap — 40% of Total Assets",
+      "description":"Advance Paid to Vendors is the single largest asset at INR 9.37 Cr, representing nearly 40% of total assets. This reflects extreme supplier bargaining power or severe lack of credit terms. Having ~40% of assets locked in vendor advances while holding near-zero liquidity is a catastrophic working capital failure."
+    },
+    {
+      "type":"red",
+      "icon":"🔴",
+      "title":"Flaw 3: Catastrophic Cash Position — Near-Zero Cash",
+      "description":"Cash and bank balances stand at only INR 7.21 L in FY25 compared to INR 3.42 L in FY22. Average monthly expenses are approximately INR 2.25 Cr, meaning current liquidity covers less than one day of operational outflow. This reflects an extremely fragile cash buffer despite rapid revenue growth. Any delay in receivable realization or constraint in overdraft availability could immediately impair operational continuity."
+    },
+    {
+      "type":"red",
+      "icon":"🔴",
+      "title":"Flaw 4: Dangerous Dependence on Overdraft Facilities",
+      "description":"Short-term borrowings (overdraft) stood at INR 4.76 Cr in FY25. Interest costs surged from zero in FY23 to INR 291 L in FY24 and INR 476 L in FY25. Funding operations via expensive overdraft in a low-margin engineering services model creates a compounding financial disaster. As losses mount and net worth erodes, lenders may reduce limits, creating a credit cliff."
+    },
+    {
+      "type":"red",
+      "icon":"🔴",
+      "title":"Flaw 5: Equity Erosion — Declining Net Worth",
+      "description":"Net worth (book value) declined from INR 1081.9 L in FY24 to INR 721.3 L in FY25 — a 33% erosion in a single year due to operating losses of approximately INR 360 L. If losses continue at this rate, the company will exhaust its net worth within two financial years, reaching technical insolvency."
+    },
+    {
+      "type":"red",
+      "icon":"🔴",
+      "title":"Flaw 6: Related Party Transactions — Governance Concern",
+      "description":"Director salaries (Vasanthan: INR 11.5 L, Iniyavan: INR 10.9 L, Prakash Kumar: INR 11.4 L) and director consulting fees paid to spouse (J Gayathri) amount to INR 41.4 L. These represent 44% of gross profit (INR 131.3 L), meaning after paying founders, only 56% of gross profit remains for all other expenses. While disclosed, the quantum is concerning relative to financial health."
+    },
+    {
+      "type":"orange",
+      "icon":"🟠",
+      "title":"Flaw 7: Receivables Growth Outpacing Revenue — Collection Risk",
+      "description":"Trade receivables grew from INR 12.14 L in FY23 to INR 300.19 L in FY25 — a 25x increase, while revenue grew 13x. DSO stretched from 26 days to 30 days, indicating slightly worsening collection efficiency. In FY24, bad debts of INR 40.56 L were written off, indicating credit quality issues within the customer base. Uncollected receivables are a silent cash drain."
+    },
+    {
+      "type":"orange",
+      "icon":"🟠",
+      "title":"Flaw 8: Expenses Systematically Exceeding Revenue Growth",
+      "description":"In FY25, total expenses of INR 2669.9 L were incurred against revenue of INR 2244.72 L — an expense ratio exceeding 120%. Professional and consultancy fees grew 2,189%, software costs grew 1,334%, and finance costs grew 724%, all at rates exceeding revenue growth. The company lacks a rigorous cost escalation governance mechanism."
+    },
+    {
+      "type":"orange",
+      "icon":"🟠",
+      "title":"Flaw 9: Business Funded by Customer Advances (₹9.50 Cr) — Structural Ponzi Risk",
+      "description":"The company is using INR 9.50 Cr in customer advance payments as its primary liquidity source instead of retained earnings, lines of credit, or operating cash flow. These advances represent deferred obligations — the company must deliver goods/services in the future. With a gross margin of only 2.8%, each future delivery generates a loss. If order inflows slow, advance pool dries up and the business cannot fund operations. This is an unsustainable and structurally fragile funding model."
+    },
+    {
+      "type":"orange",
+      "icon":"🟠",
+      "title":"Flaw 10: ₹8.7 Cr Fixed Deposit Pledged as OD Collateral — Negative Carry",
+      "description":"The company holds ₹8.7 Cr in Fixed Deposits classified as Non-Current Investments — almost entirely pledged against the bank overdraft facility. It earns ~6–7% on FDs while paying 12–15% interest on the OD. This creates a net negative carry of approximately 6–8% on ₹4.76 Cr of borrowed funds. Additionally, capital frozen in FDs is unavailable for operations, further compounding the liquidity crisis."
+    },
+    {
+      "type":"blue",
+      "icon":"🔵",
+      "title":"Flaw 11: Trade Payables Surged 710% — MSME Payment Risk",
+      "description":"Trade payables grew from ₹2.12 Cr (FY24) to ₹17.16 Cr (FY25) — a 710% increase. MSME payables grew from ₹3.24 L to ₹14.13 L — a 4,253% increase. Under the MSMED Act, delayed MSME payments beyond the agreed credit period (which cannot exceed 45 days) attract interest at 3x the bank rate compounded monthly (6.75% per annum), creating legal liability and reputational risk. The explosion in payables indicates the company is increasingly stretching payment terms to manage cash, an unsustainable practice."
+    }
+  ]
+  },
+
+  "scorecard": {
+    "dimensions": [
+      {
+        "dimension": "Profitability",
+        "fy23": "2/5",
+        "fy24": "1/5",
+        "fy25": "1/5 — CRITICAL",
+        "keyIssue": "Losses in all 4 years; worsening",
+        "fy23Color": "text-orange",
+        "fy24Color": "text-red",
+        "fy25Color": "text-red",
+        "highlight": true
+      },
+      {
+        "dimension": "Liquidity",
+        "fy23": "4/5",
+        "fy24": "1/5",
+        "fy25": "1/5 — CRITICAL",
+        "keyIssue": "Cash essentially depleted; OD-dependent",
+        "fy23Color": "text-green",
+        "fy24Color": "text-red",
+        "fy25Color": "text-red",
+        "highlight": true
+      },
+      {
+        "dimension": "Solvency / Leverage",
+        "fy23": "4/5",
+        "fy24": "3/5",
+        "fy25": "2/5 — POOR",
+        "keyIssue": "Equity eroding; leverage rising",
+        "fy23Color": "text-green",
+        "fy24Color": "text-orange",
+        "fy25Color": "text-red",
+        "highlight": false
+      },
+      {
+        "dimension": "Revenue Growth",
+        "fy23": "5/5",
+        "fy24": "5/5",
+        "fy25": "4/5 — GOOD",
+        "keyIssue": "Strong growth; unprofitable execution",
+        "fy23Color": "text-green",
+        "fy24Color": "text-green",
+        "fy25Color": "text-green",
+        "highlight": false
+      },
+      {
+        "dimension": "Operational Efficiency",
+        "fy23": "1/5",
+        "fy24": "1/5",
+        "fy25": "1/5 — CRITICAL",
+        "keyIssue": "Costs outpace revenue every year",
+        "fy23Color": "text-red",
+        "fy24Color": "text-red",
+        "fy25Color": "text-red",
+        "highlight": true
+      },
+      {
+        "dimension": "Governance & Transparency",
+        "fy23": "3/5",
+        "fy24": "3/5",
+        "fy25": "3/5 — MODERATE",
+        "keyIssue": "RPTs disclosed; quantum warrants review",
+        "fy23Color": "text-orange",
+        "fy24Color": "text-orange",
+        "fy25Color": "text-orange",
+        "highlight": false
+      }
+    ],
+    "overall": {
+      "fy23": "3.2/5",
+      "fy24": "2.3/5",
+      "fy25": "2.0/5 — HIGH RISK",
+      "status": "Immediate intervention required",
+      "fy23Color": "text-orange",
+      "fy24Color": "text-red",
+      "fy25Color": "text-red"
+    }
+  },
+
+  "strategicAdvisory": {
+    "recommendations": [
+    {
+      "priority": "critical",
+      "icon": "🔴",
+      "title": "",
+      "subtitle": "1. Emergency Pricing & Contract Audit",
+      "rootCause": "Comprehensive line-item analysis required to determine true fully-loaded cost per project including materials, direct labour, overheads, and finance costs. Any contract priced below breakeven must be renegotiated or terminated.",
+      "actions": [
+        "Target: achieve minimum 20% gross margin on new contracts within 60 days"
+      ]
+    },
+    {
+      "priority": "critical",
+      "icon": "🔴",
+      "title": "",
+      "subtitle": "2. Cash Flow Triage & Receivables Acceleration",
+      "rootCause": "With only INR 7.21 L in cash vs. monthly expenditure of INR 220+ L, the company must implement emergency receivables collection. Enforce strict credit limits on all customer accounts. Offer 1–2% early payment discounts for accounts settled within 48 hours.",
+      "actions": [
+        "Institute hard credit limits on all customer accounts"
+      ]
+    },
+    {
+      "priority": "critical",
+      "icon": "🔴",
+      "title": "",
+      "subtitle": "3. Freeze Non-Essential Expenditure",
+      "rootCause": "Immediately suspend or defer: discretionary travel (INR 15.73 L per year), non-critical business promotion (INR 15.73 L per year), and any technology investments not directly revenue-generating.",
+      "actions": []
+    },
+    {
+      "priority": "critical",
+      "icon": "🔴",
+      "title": "",
+      "subtitle": "4. Strategic Working Capital Reset: Unlocking Vendor Advances and Restoring Liquidity",
+      "rootCause": "Discussions with Major Suppliers: 41.7% of total assets are presently locked in vendor advances, materially constraining liquidity and leaving the company with negligible operational cash buffer — this is the primary working capital risk. An LC facility backed by the existing ₹8.7 Cr FD should be operationalized and converted into 60–90 day usance LCs to structurally compress the Cash Conversion Cycle. Strategic suppliers must be transitioned to 30–45-day credit terms. Vendor Advance Policy: No single vendor advance to exceed 10% of monthly revenue. The objective is to reduce advances from ₹9.37 Cr to below ₹2 Cr within six months, thereby converting ~₹7 Cr into operational flexibility.",
+      "actions": []
+    },
+    {
+      "priority": "high",
+      "icon": "🟠",
+      "title": "",
+      "subtitle": "5. Business Model Restructuring — From Trader to Value-Add Provider",
+      "rootCause": "The core issue is the 94% material cost ratio. At this level, Frigate is functioning as a trading entity, not an engineering services company. Immediate strategy: shift from contract-by-contract materials supply model to professional engineering service contracts where Frigate charges for design, project management, supervision, commissioning and technical services. Materials should be reimbursable pass-through at cost plus a procurement management fee.",
+      "actions": []
+    },
+    {
+      "priority": "high",
+      "icon": "🟠",
+      "title": "",
+      "subtitle": "6. Revenue Mix Diversification — Build High-Margin Service Lines",
+      "rootCause": "Develop and launch pure consulting, design engineering, and technical advisory service offerings with no materials exposure. These can be priced at INR 5,000–15,000 per day per engineer. Even INR 10,000K of high-margin services revenue (75%+ margin) would generate INR 7,500K of gross profit — more than 6 INR of low-margin project work. Target: 25% of revenue from pure services by FY26.",
+      "actions": []
+    },
+    {
+      "priority": "high",
+      "icon": "🟠",
+      "title": "",
+      "subtitle": "7. Export Revenue Enhancement",
+      "rootCause": "Foreign currency earnings grew from INR 266.6 L (FY24) to INR 1368.9 L (FY25). Export revenue is strategically valuable as it typically commands better margins compared to domestic contracts. FY26 target: 30% of revenue to be export-driven with mandatory minimum 20% gross margin covenant on all export contracts.",
+      "actions": []
+    },
+    {
+      "priority": "high",
+      "icon": "🟠",
+      "title": "",
+      "subtitle": "8. Related Party Transaction — Governance",
+      "rootCause": "Establish an independent board committee to review and approve all related party transactions including director salaries, consulting, and rental arrangements. Director compensation of INR 58 L absorbs 44.1% of gross profit. While disclosure is compliant, sustainability at this level in a loss-making company raises concerns. ESOP-heavy incentive structures and base salary benchmarking are recommended to align director incentives with profitability milestones.",
+      "actions": []
+    },
+    {
+      "priority": "growth",
+      "icon": "🟢",
+      "title": "",
+      "subtitle": "9. Profitability Covenant Framework",
+      "rootCause": "Establish permanent financial covenants: Minimum gross margin of 20% on all contracts. Maximum employee costs of 10% of revenue. Cash balance floor of 30 days of operating expenses. Interest coverage ratio target of 2.5x or higher. These are reported quarterly to the CFO and audited quarterly to the board.",
+      "actions": []
+    },
+    {
+      "priority": "growth",
+      "icon": "🟢",
+      "title": "",
+      "subtitle": "10. Capital Structure Optimisation",
+      "rootCause": "If equity-raising is contemplated, it should be tied to a credible path to profitability. Raising capital to fund ongoing losses without a restructured business model is value-destructive to existing shareholders. Any future capital raise should be conditional on achieving 15%+ gross margins for two consecutive quarters.",
+      "actions": []
+    }
+  ]
+},
+
+  "conclusion": {
+    "boardImperatives": {
+      "title": "The Board Must Act on These Three Non-Negotiable Imperatives",
+      "imperatives": [
+        {
+          "number": "1",
+          "title": "REPRICE ALL CONTRACTS",
+          "description": "The company must move to contracts structured to deliver a minimum of 20% gross margin. Existing contracts must be renegotiated or exited. This requires: establishing a cost governance structure, payment terms alignment to reduce working capital stress, and a receivables protocol to restore cash reserves to a minimum of 30 days of operating expenses (approximately INR 22,000). A COST GOVERNANCE STRUCTURE must be put into effect immediately with automatic escalation triggers to the Board for any covenant breach."
+        },
+        {
+          "number": "2",
+          "title": "18-24 MONTH EQUITY EXHAUSTION WINDOW",
+          "description": "The company has 18-24 months before equity is fully exhausted at current loss rates. This is a narrow but recoverable window. The founders have demonstrated market access and commercial capability."
+        },
+        {
+          "number": "3",
+          "title": "REDIRECT TOWARD FINANCIAL SUSTAINABILITY",
+          "description": "The imperative now is to redirect that capability toward a financially sustainable model before the balance sheet forces an involuntary restructuring."
+        }
+      ]
+    },
+    "summaryMetrics": [
+      { "name": "Revenue (INR '000)", "fy22": "2,270", "fy23": "16,815", "fy24": "81,708", "fy25": "2,24,472", "trend": "93× Growth — Exceptional", "trendColor": "text-green", "highlight": false },
+      { "name": "Net Profit/ (Loss)", "fy22": "(296)", "fy23": "(4,265)", "fy24": "(20,714)", "fy25": "(36,053)", "trend": "12,180% Deterioration", "trendColor": "text-red", "fy25Color": "text-red", "highlight": true },
+      { "name": "Gross Margin %", "fy22": "4.7%", "fy23": "8.0%", "fy24": "4.4%", "fy25": "5.8%", "trend": "Critical FLAW", "trendColor": "text-red", "fy25Color": "text-red", "highlight": true },
+      { "name": "Net Profit Margin %", "fy22": "-13.0%", "fy23": "-25.2%", "fy24": "-24.2%", "fy25": "-15.6%", "trend": "Improving % but growing deficit", "trendColor": "text-orange", "fy25Color": "text-red", "highlight": false },
+      { "name": "Cash & Bank Balance", "fy22": "342", "fy23": "8,332", "fy24": "336", "fy25": "721", "trend": "Existential Crisis", "trendColor": "text-red", "fy25Color": "text-red", "highlight": true },
+      { "name": "Total Equity", "fy22": "(196)", "fy23": "9,448", "fy24": "1,08,193", "fy25": "72,132", "trend": "33% Erosion (FY25)", "trendColor": "text-red", "fy25Color": "text-red", "highlight": true },
+      { "name": "Vendor Advances", "fy22": "-", "fy23": "-", "fy24": "-", "fy25": "93,700", "trend": "40% Assets Trapped", "trendColor": "text-red", "fy25Color": "text-red", "highlight": true },
+      { "name": "Customer Advances", "fy22": "-", "fy23": "-", "fy24": "-", "fy25": "95,000", "trend": "Primary Liquidity", "trendColor": "text-orange", "highlight": false },
+      { "name": "Short-Term Borrowings", "fy22": "-", "fy23": "-", "fy24": "60,093", "fy25": "47,580", "trend": "High-Cost OD Dependency", "trendColor": "text-orange", "highlight": false },
+      { "name": "Export Revenue", "fy22": "-", "fy23": "-", "fy24": "26,660", "fy25": "1,36,890", "trend": "High Margin Signal", "trendColor": "text-green", "highlight": true },
+      { "name": "Cumulative Net Loss", "fy22": "(296)", "fy23": "(4,561)", "fy24": "(25,275)", "fy25": "(61,328)", "trend": "No recovery yet", "trendColor": "text-red", "fy25Color": "text-red", "highlight": true }
+    ]
+  }
+}
