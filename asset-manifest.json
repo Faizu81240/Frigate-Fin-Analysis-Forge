@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Frigate-Fin-Analysis-Forge/static/css/main.327206d3.css",
-    "main.js": "/Frigate-Fin-Analysis-Forge/static/js/main.c085edbe.js",
-    "index.html": "/Frigate-Fin-Analysis-Forge/index.html",
-    "main.327206d3.css.map": "/Frigate-Fin-Analysis-Forge/static/css/main.327206d3.css.map",
-    "main.c085edbe.js.map": "/Frigate-Fin-Analysis-Forge/static/js/main.c085edbe.js.map"
+    "main.css": "/static/css/main.327206d3.css",
+    "main.js": "/static/js/main.c085edbe.js",
+    "index.html": "/index.html",
+    "main.327206d3.css.map": "/static/css/main.327206d3.css.map",
+    "main.c085edbe.js.map": "/static/js/main.c085edbe.js.map"
   },
   "entrypoints": [
     "static/css/main.327206d3.css",
