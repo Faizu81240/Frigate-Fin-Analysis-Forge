@@ -2,7 +2,7 @@
   "name": "frigate-financial-report",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://faizu81240.github.io/Frigate-Fin-Analysis-Forge",
+  "homepage": "https://bigotech.in",
   "description": "React-based financial analysis report for Frigate Engineering Services",
   "dependencies": {
     "react": "^18.2.0",
